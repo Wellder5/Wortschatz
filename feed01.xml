@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kinder Deutsch Trainer</title>
+    <title>Jeongho &amp; Yuju – Wort des Tages</title>
     <description>Tägliche deutsche Wörter für Kinder — einfach und spannend erklärt!</description>
     <link>https://raw.githubusercontent.com/Wellder5/Wortschatz/main/feed01.xml</link>
+    <atom:link href="https://raw.githubusercontent.com/Wellder5/Wortschatz/main/feed01.xml" rel="self" type="application/rss+xml" />
     <language>de-DE</language>
     <lastBuildDate>Tue, 04 Nov 2025 08:00:00 GMT</lastBuildDate>
 
     <item>
       <title>Tag 1 – Neue Wörter</title>
       <pubDate>Tue, 04 Nov 2025 08:00:00 GMT</pubDate>
+      <guid isPermaLink="false">tag1-2025-11-04</guid>
       <description><![CDATA[
         <p><strong>1️⃣ stattdessen</strong> (Adverb) – Das bedeutet: anstelle von etwas.<br>
         Beispiel: Ich esse kein Eis, stattdessen esse ich Obst.</p>
