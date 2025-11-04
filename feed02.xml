@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Kinder Deutsch Trainer</title>
+    <description>Tägliche deutsche Wörter für Kinder — einfach und spannend erklärt!</description>
+    <link>https://raw.githubusercontent.com/Wellder5/Wortschatz/main/feed01.xml</link>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 04 Nov 2025 08:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Tag 1 – Neue Wörter</title>
+      <pubDate>Tue, 04 Nov 2025 08:00:00 GMT</pubDate>
+      <description><![CDATA[
+        <p><strong>1️⃣ stattdessen</strong> (Adverb) – Das bedeutet: anstelle von etwas.<br>
+        Beispiel: Ich esse kein Eis, stattdessen esse ich Obst.</p>
+
+        <p><strong>2️⃣ sich bewegen</strong> (Verb) – Das bedeutet: den Körper bewegen.<br>
+        Beispiel: Ich bewege mich gern im Park.</p>
+
+        <p><strong>3️⃣ deshalb</strong> (Adverb) – Das bedeutet: darum, deswegen.<br>
+        Beispiel: Es regnet, deshalb bleibe ich zu Hause.</p>
+
+        <p><strong>4️⃣ plötzlich</strong> (Adverb) – Das bedeutet: ganz schnell, unerwartet.<br>
+        Beispiel: Plötzlich kam ein Hund!</p>
+
+        <p><strong>5️⃣ versuchen</strong> (Verb) – Das bedeutet: probieren.<br>
+        Beispiel: Ich versuche, das Spiel zu gewinnen.</p>
+      ]]></description>
+    </item>
+
+  </channel>
+</rss>
