@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Jeongho & Yuju – Wort des Tages</title>
-    <description>Tägliches Vokabeltraining für Kinder mit Spaß – jeden Tag 5 Wörter mit Beispielen.</description>
-    <link>https://jeongho-und-yuju.de</link>
-    <language>de-de</language>
+    <title>Kinder Deutsch Trainer</title>
+    <description>Tägliche deutsche Wörter für Kinder — einfach und spannend erklärt!</description>
+    <link>https://raw.githubusercontent.com/Wellder5/Wortschatz/main/feed01.xml</link>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 04 Nov 2025 08:00:00 GMT</lastBuildDate>
 
     <item>
-      <title>Wort des Tages – Tag 1</title>
+      <title>Tag 1 – Neue Wörter</title>
+      <pubDate>Tue, 04 Nov 2025 08:00:00 GMT</pubDate>
       <description><![CDATA[
-        <b>1. stattdessen</b> – anstelle von etwas anderem.<br/>
-        Beispiel: Jeongho wollte Pizza essen, aber stattdessen gab es Suppe.<br/><br/>
+        <p><strong>1️⃣ stattdessen</strong> (Adverb) – Das bedeutet: anstelle von etwas.<br>
+        Beispiel: Ich esse kein Eis, stattdessen esse ich Obst.</p>
 
-        <b>2. sich kugeln</b> – sich wie ein Ball rollen, zum Beispiel im Schnee oder vor Lachen.<br/>
-        Beispiel: Yuju kugelte sich im Schnee und lachte laut.<br/><br/>
+        <p><strong>2️⃣ sich bewegen</strong> (Verb) – Das bedeutet: den Körper bewegen.<br>
+        Beispiel: Ich bewege mich gern im Park.</p>
 
-        <b>3. der Vorschlag</b> – eine Idee, was man machen kann.<br/>
-        Beispiel: Jeongho hatte einen tollen Vorschlag: ein Zelt im Wohnzimmer bauen!<br/><br/>
+        <p><strong>3️⃣ deshalb</strong> (Adverb) – Das bedeutet: darum, deswegen.<br>
+        Beispiel: Es regnet, deshalb bleibe ich zu Hause.</p>
 
-        <b>4. deshalb</b> – zeigt einen Grund – darum, deswegen.<br/>
-        Beispiel: Yuju war müde, deshalb ging sie früher ins Bett.<br/><br/>
+        <p><strong>4️⃣ plötzlich</strong> (Adverb) – Das bedeutet: ganz schnell, unerwartet.<br>
+        Beispiel: Plötzlich kam ein Hund!</p>
 
-        <b>5. sich streiten</b> – miteinander ärgerlich sprechen oder kämpfen.<br/>
-        Beispiel: Jeongho und Yuju stritten sich, aber danach haben sie sich wieder vertragen.<br/><br/>
+        <p><strong>5️⃣ versuchen</strong> (Verb) – Das bedeutet: probieren.<br>
+        Beispiel: Ich versuche, das Spiel zu gewinnen.</p>
       ]]></description>
-      <pubDate>Mon, 04 Nov 2025 07:00:00 +0100</pubDate>
     </item>
 
   </channel>
